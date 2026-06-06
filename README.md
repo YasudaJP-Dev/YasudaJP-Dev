@@ -1,16 +1,51 @@
-## Hi there 👋
+# こんにちは！ Yasuda といいます👋
 
-<!--
-**YasudaJP-Dev/YasudaJP-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Microsoft製品サポートおよび業務システム開発の経験があります。
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Microsoft Access
+* VBA
+* SQL Server
+* Outlook
+* Exchange
+* Microsoft Teams
+* Microsoft Graph API
+* C++
+* Python
+* Git / GitHub
+
+## Experience
+
+* Microsoft製品サポート
+* ヘルプデスク業務
+* Access VBAによる業務システム開発
+* SQL Serverデータベース開発・運用
+
+## Current Focus
+
+現在は生成AIを活用しながら、
+
+* C++
+* Python
+* GitHub
+* Qiita
+
+の学習およびポートフォリオ作成に取り組んでいます。
+
+## Featured Project
+
+### Recruitment Management System
+
+採用管理業務を効率化するためのシステム
+
+* 応募者管理
+* 採用率分析
+* グラフ表示
+
+## Goals
+
+* GitHubポートフォリオの充実
+* Qiitaでの技術発信
+* 副業案件への挑戦
+* AI活用開発スキル向上
